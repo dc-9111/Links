@@ -87,6 +87,14 @@ links:
     Color: '#5865F2'
     Text_Color: '#ffffff'
     
+      # BUY ME A COFFEE
+  - Name: Donate
+    URL: 'https://www.buymeacoffee.com/defcon9111'
+    Username: tchsmJ8ZZQ
+    Icon-Class: fas fa-mug-hot
+    Color: '#40dca5'
+    Text_Color: '#ffffff'
+    
     # MEDIUM
   - Name: Medium
     URL: 'https://medium.com'
