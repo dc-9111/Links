@@ -111,7 +111,7 @@ links:
     Text_Color: '#ffffff'
     
     
-    # 0X04 LINK
+    # 0x04 LINK
   - Name: 0x04
     URL: https://forms.gle/Gfga3VEtqPGUL4jB6
     Icon-Class: fas fa-link
